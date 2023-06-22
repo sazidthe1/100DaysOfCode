@@ -1,13 +1,13 @@
 # 100DaysOfCode Journey
 The repository dedicated to my #100DaysOfCode journey in Python 🐍
 
-## Timeline
-### 🆕 Beginner 
+## Timeline ⏳
+### 🆕 Beginner: Day 1 to Day 10
 
-|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|
-|------|-----------------|--------------------|---------------------|
-|Day 1|June 21, 2023|Learnt Syntax, Comments, Variables, Strings |https://github.com/sazidthe1/100DaysOfCode/blob/main/Day1.py|
-|Day 2|June 22, 2023|||
+|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
+|------|-----------------|--------------------|---------------------|---------------------|
+|Day 1|June 21, 2023|Learnt Syntax, Comments, Variables, Strings|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day1.py)|[CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)|
+|Day 2|June 22, 2023|Python Data Types - Strings, Numbers, Booleans|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day2.ipynb)|Continue|
 |Day 3|June 23, 2023|||
 |Day 4|June 24, 2023|||
 |Day 5|June 25, 2023| ||
