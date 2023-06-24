@@ -9,7 +9,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 1|June 21, 2023|Learnt Syntax, Comments, Variables, Strings|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day1.py)|[CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)|
 |Day 2|June 22, 2023|Python Data Types: Strings, Numbers, Booleans|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day2.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_datatypes.asp)|
 |Day 3|June 23, 2023|Python Operators: Arithmetic, Comparison, Logical|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day3.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_operators.asp)|
-|Day 4|June 24, 2023|||
+|Day 4|June 24, 2023|Python Lists - Items (Access, Change, Add, Remove, Copy, Join, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day4.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_lists.asp)|
 |Day 5|June 25, 2023| ||
 |Day 6|June 26, 2023| ||
 |Day 7|June 27, 2023| ||
