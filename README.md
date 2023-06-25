@@ -10,7 +10,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 2|June 22, 2023|Python Data Types: Strings, Numbers, Booleans|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day2.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_datatypes.asp)|
 |Day 3|June 23, 2023|Python Operators: Arithmetic, Comparison, Logical|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day3.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_operators.asp)|
 |Day 4|June 24, 2023|Python Lists - Items (Access, Change, Add, Remove, Copy, Join, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day4.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_lists.asp)|
-|Day 5|June 25, 2023| ||
+|Day 5|June 25, 2023|Python Tuples & Sets - Items (Access, Add, Remove, Update, Unpack, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day5.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_tuples.asp)|
 |Day 6|June 26, 2023| ||
 |Day 7|June 27, 2023| ||
 |Day 8|June 28, 2023| ||
@@ -19,8 +19,8 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 
 ### ⭐️ Intermediate 
 
-|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|
-|------|-----------------|--------------------|---------------------|
+|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
+|------|-----------------|--------------------|---------------------|---------------------|
 |Day 11|July 1, 2023|||
 |Day 12|July 2, 2023| ||
 |Day 13|July 3, 2023| ||
