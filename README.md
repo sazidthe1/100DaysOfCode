@@ -14,7 +14,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 6|June 26, 2023|Python Dictionaries - Items (Access, Change, Add, Remove, Copy, Nested, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day6.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_dictionaries.asp)|
 |Day 7|June 27, 2023|Conditions, If-Elif-Else, And-Or-Not, Nested If, Pass Statement|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day7.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_conditions.asp)|
 |Day 8|June 28, 2023|Python Loops - For Loops, While Loops|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day8.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_while_loops.asp)|
-|Day 9|June 29, 2023|||
+|Day 9|June 29, 2023|Python Functions - Create, Call, Arguments, Parameters, Return Values|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day9.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_functions.asp)||
 |Day 10|June 30, 2023|||
 
 ### ⭐️ Intermediate 
