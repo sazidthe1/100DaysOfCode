@@ -15,13 +15,13 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 7|June 27, 2023|Conditions, If-Elif-Else, And-Or-Not, Nested If, Pass Statement|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day7.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_conditions.asp)|
 |Day 8|June 28, 2023|Python Loops - For Loops, While Loops|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day8.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_while_loops.asp)|
 |Day 9|June 29, 2023|Python Functions - Create, Call, Arguments, Parameters, Return Values|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day9.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_functions.asp)||
-|Day 10|June 30, 2023|Problem Set 0 - Indoor Voice, Playback Speed, Making Faces, Einstein Formula, Tip Calculator|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day10.ipynb)|[CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)|
+|Day 10|June 30, 2023|Problem Set 0 - Indoor Voice, Playback Speed, Making Faces, Einstein Formula, Tip Calculator|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day10.ipynb)|[CS50's Problem Set 0](https://cs50.harvard.edu/python/2022/psets/0/)|
 
 ### ⭐️ Intermediate 
 
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |------|-----------------|--------------------|---------------------|---------------------|
-|Day 11|July 1, 2023|||
+|Day 11|July 1, 2023|Problem Set 1 - Deep Thought, Home Federal Savings Bank, File Extensions, Math Interpreter, Meal Time|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day11.ipynb)|[CS50's Problem Set 1](https://cs50.harvard.edu/python/2022/psets/1/)|
 |Day 12|July 2, 2023| ||
 |Day 13|July 3, 2023| ||
 |Day 14|July 4, 2023| ||
