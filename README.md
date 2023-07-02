@@ -22,7 +22,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |------|-----------------|--------------------|---------------------|---------------------|
 |Day 11|July 1, 2023|Problem Set 1 - Deep Thought, Home Federal Savings Bank, File Extensions, Math Interpreter, Meal Time|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day11.ipynb)|[CS50's Problem Set 1](https://cs50.harvard.edu/python/2022/psets/1/)|
-|Day 12|July 2, 2023| ||
+|Day 12|July 2, 2023|Python Lambda|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day12.ipynb)|[W3Schools](https://www.w3schools.com/python/python_lambda.asp)|
 |Day 13|July 3, 2023| ||
 |Day 14|July 4, 2023| ||
 |Day 15|July 5, 2023| ||
