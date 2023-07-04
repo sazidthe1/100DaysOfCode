@@ -24,8 +24,8 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |---|-----|-----------|-----------|-----------|
 |Day 11|July 1, 2023|Problem Set 1 - Deep Thought, Federal Savings Bank, File Extensions, Math Interpreter, Meal Time|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day11.ipynb)|[CS50's Problem Set 1](https://cs50.harvard.edu/python/2022/psets/1/)|
 |Day 12|July 2, 2023|Problem Set 2 - camelCase|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day12.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
-|Day 13|July 3, 2023|Problem Set 2 - Coke Machine, Setting Up My Twttr, Vanity Plates, Nutrition Facts|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day13.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
-|Day 14|July 4, 2023| ||
+|Day 13|July 3, 2023|Problem Set 2 - Coke Machine, Just setting up my twttr|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day13.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
+|Day 14|July 4, 2023|Problem Set 2 - Vanity Plates, Nutrition Facts|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day14.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
 |Day 15|July 5, 2023| ||
 |Day 16|July 6, 2023|||
 |Day 17|July 7, 2023| ||
