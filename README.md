@@ -9,7 +9,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 1|June 21, 2023|Learnt Syntax, Comments, Variables, Strings|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day1.py)|[CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)|
 |Day 2|June 22, 2023|Python Data Types: Strings, Numbers, Booleans|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day2.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_datatypes.asp)|
 |Day 3|June 23, 2023|Python Operators: Arithmetic, Comparison, Logical|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day3.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_operators.asp)|
-|Day 4|June 24, 2023|Python Lists - Items (Access, Change, Add, Remove,<br> Copy, Join, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day4.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_lists.asp)|
+|Day 4|June 24, 2023|Python Lists - Items (Access, Change, Add, Remove, Copy, Join, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day4.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_lists.asp)|
 |Day 5|June 25, 2023|Python Tuples & Sets - Items (Access, Add, Remove, Update, Unpack, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day5.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_tuples.asp)|
 |Day 6|June 26, 2023|Python Dictionaries - Items (Access, Change, Add, Remove, Copy, Nested, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day6.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_dictionaries.asp)|
 |Day 7|June 27, 2023|Conditions, If-Elif-Else, And-Or-Not, Nested If, Pass Statement|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day7.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_conditions.asp)|
@@ -26,7 +26,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 12|July 2, 2023|Problem Set 2 - camelCase|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day12.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
 |Day 13|July 3, 2023|Problem Set 2 - Coke Machine, Just setting up my twttr|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day13.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
 |Day 14|July 4, 2023|Problem Set 2 - Vanity Plates, Nutrition Facts|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day14.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
-|Day 15|July 5, 2023| ||
+|Day 15|July 5, 2023|Python Error Handling and Exceptions|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day15.ipynb)|[CS50's Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)|
 |Day 16|July 6, 2023|||
 |Day 17|July 7, 2023| ||
 |Day 18|July 8, 2023| ||
