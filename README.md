@@ -27,7 +27,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 13|July 3, 2023|Problem Set 2 - Coke Machine, Just setting up my twttr|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day13.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
 |Day 14|July 4, 2023|Problem Set 2 - Vanity Plates, Nutrition Facts|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day14.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
 |Day 15|July 5, 2023|Python Error Handling and Exceptions|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day15.ipynb)|[CS50's Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)|
-|Day 16|July 6, 2023|||
+|Day 16|July 6, 2023|Python Libraries (Working with Modules and Packages)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Fundamentals/day16_libraries.ipynb)|[CS50's Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)|
 |Day 17|July 7, 2023| ||
 |Day 18|July 8, 2023| ||
 |Day 19|July 9, 2023| ||
