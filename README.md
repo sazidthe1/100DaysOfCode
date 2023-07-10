@@ -31,5 +31,5 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 17|July 7, 2023|Unit Tests - testing my own program, assert, pytest|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Fundamentals/day17_unit_tests.ipynb)|Continue|
 |Day 18|July 8, 2023|File Handling - Open, Read, Write, Create, Delete|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Fundamentals/day18_file_handling.ipynb)|Continue|
 |Day 19|July 9, 2023|Regular Expressions - findall, search, split, sub & Match Object|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Fundamentals/day19_regular_expressions.ipynb)|Continue|
-|Day 20|July 10, 2023| ||
+|Day 20|July 10, 2023|Python for Beginners – Full Course|🚫 Code Day|[freeCodeCamp's Course](https://youtu.be/eWRfhZUzrAc)|
 <br>
