@@ -2,7 +2,7 @@
 The repository dedicated to my #100DaysOfCode journey in Python 🐍
 
 ## Timeline ⏳
-### 🆕 Beginner | Day 1 to Day 10
+### 🆕 Beginner | Day 1 to Day 20
 
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
@@ -14,14 +14,8 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 6|June 26, 2023|Python Dictionaries - Items (Access, Change, Add, Remove, Copy, Nested, Methods)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day6.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_dictionaries.asp)|
 |Day 7|June 27, 2023|Conditions, If-Elif-Else, And-Or-Not, Nested If, Pass Statement|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day7.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_conditions.asp)|
 |Day 8|June 28, 2023|Python Loops - For Loops, While Loops|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day8.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_while_loops.asp)|
-|Day 9|June 29, 2023|Python Functions - Create, Call, Arguments, Parameters, Return Values|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day9.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_functions.asp)||
+|Day 9|June 29, 2023|Python Functions - Create, Call, Arguments, Parameters, Return Values|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day9.ipynb)|Continue + [W3Schools](https://www.w3schools.com/python/python_functions.asp)|
 |Day 10|June 30, 2023|Problem Set 0 - Indoor Voice, Playback Speed, Making Faces, Einstein Formula, Tip Calculator|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day10.ipynb)|[CS50's Problem Set 0](https://cs50.harvard.edu/python/2022/psets/0/)|
-<br>
-
-### ⭐️ Intermediate | Day 11 to Day 20
-
-|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
-|---|-----|-----------|-----------|-----------|
 |Day 11|July 1, 2023|Problem Set 1 - Deep Thought, Federal Savings Bank, File Extensions, Math Interpreter, Meal Time|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day11.ipynb)|[CS50's Problem Set 1](https://cs50.harvard.edu/python/2022/psets/1/)|
 |Day 12|July 2, 2023|Problem Set 2 - camelCase|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day12.ipynb)|[CS50's Problem Set 2](https://cs50.harvard.edu/python/2022/psets/2/)|
 |Day 13|July 3, 2023|Problem Set 2 - Coke Machine, Just setting up my twttr|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Day13.ipynb)|Continue|
@@ -33,3 +27,9 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 19|July 9, 2023|Regular Expressions - findall, search, split, sub & Match Object|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Fundamentals/day19_regular_expressions.ipynb)|Continue|
 |Day 20|July 10, 2023|Python for Beginners – Full Course|🚫 Code Day|[freeCodeCamp's Course](https://youtu.be/eWRfhZUzrAc)|
 <br>
+
+### ⭐️ Intermediate | Day 21 to Day 40
+
+|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
+|---|-----|-----------|-----------|-----------|
+|Day 21|July 11, 2023|Object-Oriented Programming (OOP) Basics - Classes and Objects|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Fundamentals/day21_classes_and_objects.ipynb)|[W3Schools](https://www.w3schools.com/python/python_classes.asp)|
