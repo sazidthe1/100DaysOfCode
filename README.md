@@ -33,5 +33,6 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
 |Day 21|July 11, 2023|Object-Oriented Programming (OOP) Basics - Classes and Objects|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Intermediate/day21_classes_and_objects.ipynb)|[W3Schools](https://www.w3schools.com/python/python_classes.asp)|
-|Day 22|July 12, 2023|Object-Oriented Programming (OOP) - Inheritance|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Intermediate/day22_oop_inheritance.ipynb)|[W3Schools](https://www.w3schools.com/python/python_inheritance.asp)|
-
+|Day 22|July 12, 2023|OOP Inheritance - Parent Class, Child Class, init() Function, super() Function, Add Properties, Add Methods|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Intermediate/day22_oop_inheritance.ipynb)|Continue|
+|Day 23|July 13, 2023|OOP Encapsulation - Defining a Class, Private Members|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Intermediate/day23_oop_encapsulation.ipynb)|Continue|
+|Day 24|July 14, 2023|OOP Polymorphism, Abstraction ||Continue|
