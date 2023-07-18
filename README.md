@@ -39,3 +39,4 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 25|July 15, 2023|OOP Abstraction - Understanding Abstraction, Abstract Classes, Polymorphism vs Abstraction|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Intermediate/day25_oop_abstraction.ipynb)|Continue|
 |Day 26|July 16, 2023|OOP with Python - Full Course for Beginners|🚫 Code Day|[freeCodeCamp's Course](https://youtu.be/Ej_02ICOIgs)|
 |Day 27|July 17, 2023|Contining the Course|🚫 Code Day|[freeCodeCamp's Course](https://youtu.be/Ej_02ICOIgs)|
+|Day 28|July 18, 2023|OPP Practice|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Python%20Intermediate/day28_oop_practice)|Continue|
