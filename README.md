@@ -42,5 +42,5 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 28|July 18, 2023|OPP Practice - classes, constructors, _init_( ), class vs static methods, inheritance, and OOP principles|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/tree/main/Python%20Intermediate/day%2028_oop_practice)|Continue|
 |Day 29|July 19, 2023|Data Structures and Algorithms (DSA) - Fundamentals, Big O notation - Purpose, Applications, Time / Space Complexity|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day29_dsa_fundamentals.ipynb)|Continue|
 |Day 30|July 20, 2023|Data Structures - Arrays, Big O Analysis, Static vs Dynamic Array|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day30_ds_arrays.ipynb)|Continue|
-|Day 31|July 21, 2023|Data Structures - Linked List, Doubly Linked List, Big O analysis, Implementation|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day31_ds_linked_list.ipynb)|Continue|
+|Day 31|July 21, 2023|Time complexity, Big O analysis|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day31_ds_linked_list.ipynb)|Continue|
 
