@@ -45,4 +45,4 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 31|July 21, 2023|Space Complexity, Big O Analysis|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day31_ds_linked_list.ipynb)|Continue|
 |Day 32|July 22, 2023|Data Structure - Arrays, Big O Analysis, Static vs Dynamic Array|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day30_ds_arrays.ipynb)|Continue|
 |Day 33|July 23, 2023|Data Structure - Linked List (Concept, Types, Common Operations)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day33_ds_linked_list.ipynb)|Continue|
-|Day 34|July 24, 2023|Data Structure - |[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day34_ds_.ipynb)|Continue|
+|Day 34|July 24, 2023|Data Structure - Stack, Queue, Hash Table|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day34_ds_stack_queue_hash_table.ipynb)|Continue|
