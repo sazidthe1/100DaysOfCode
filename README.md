@@ -48,3 +48,6 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 34|July 24, 2023|Data Structure - Stack, Queue, Hash Table|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/Data%20Structures%20and%20Algorithms/day34_ds_stack_queue_hash_table.ipynb)|Continue|
 |Day 35|July 25, 2023|Revise the Data Structures|🚫 Code Day|Continue|
 |Day 36|July 26, 2023|Take a Break|🚫 Code Day||
+|Day 37|July 27, 2023|Take a Break|🚫 Code Day||
+|Day 38|July 28, 2023|Take a Break|🚫 Code Day||
+|Day 39|July 29, 2023|Algorithm - Binary Tree, BST, DFS, BFS, Tree Traversal|[Notebook Link]()||
