@@ -52,3 +52,10 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 38|July 28, 2023|Take a Break|🚫 Code Day||
 |Day 39|July 29, 2023|Algorithm - Binary Tree, BST, DFS, BFS, Tree Traversal|[Notebook Link]()||
 |Day 40|July 30, 2023|Revise - Data Structures and Algorithms|🚫 Code Day|[Bro Code's Course](https://www.youtube.com/watch?v=CBYHwZcbD-s)|
+<br>
+
+### ⭐️ Intermediate | Day 40 to Day 50
+
+|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
+|---|-----|-----------|-----------|-----------|
+|Day 41|August 01, 2023|Web Scraping, API, Request|[Notebook Link]()||
