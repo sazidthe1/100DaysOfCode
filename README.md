@@ -58,4 +58,4 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
-|Day 41|August 01, 2023|Web Scraping, API, Request|[Notebook Link]()||
+|Day 41|August 01, 2023|Web Scraping - HTTP Request, Request Headers, Response, JSON, API|[Notebook Link]()||
