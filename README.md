@@ -59,3 +59,5 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
 |Day 41|August 01, 2023|Web Scraping - HTTP Request, Request Headers, Response, JSON, API|[Notebook Link]()||
+|Day 42|August 02, 2023|Web Scraping - HTTP, XPath notation, XPaths, and Selectors|[Notebook Link]()||
+|Day 43|August 03, 2023|Web Scraping - CSS Locators, Chaining, and Responses, Intro to Beautiful Soup (web scraping library)|[Notebook Link]()||
