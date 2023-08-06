@@ -63,5 +63,5 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 43|August 03, 2023|Web Scraping - CSS Locator syntax, Chaining CSS Locators with XPath, Intro to Beautiful Soup|[Notebook Link]()||
 |Day 44|August 04, 2023|Web Scraping - Hands-on Practice - World's Populations by UN (Incomplete)|[Notebook Link]()||
 |Day 45|August 05, 2023|Web Scraping - Hands-on Practice - World's Populations by UN (Completed)|[Notebook Link]()||
-|Day 46|August 06, 2023||[Notebook Link]()||
+|Day 46|August 06, 2023|Web Scraping - Selenium|[Notebook Link]()||
 |Day 47|August 07, 2023||[Notebook Link]()||
