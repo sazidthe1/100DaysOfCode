@@ -64,4 +64,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 44|August 04, 2023|Web Scraping - Hands-on Practice - World's Populations by UN (Incomplete)|[Notebook Link]()||
 |Day 45|August 05, 2023|Web Scraping - Hands-on Practice - World's Populations by UN (Completed)|[Notebook Link]()||
 |Day 46|August 06, 2023|Web Scraping - Selenium|[Notebook Link]()||
-|Day 47|August 07, 2023|Web Scraping - IMDb Top 250 Movies|[Notebook Link]()||
+|Day 47|August 07, 2023|Web Scraping - IMDb Top 250 Movies (Incomplete)|[Notebook Link]()||
+|Day 48|August 08, 2023|Web Scraping - IMDb Top 250 Movies (Completed)|[Notebook Link]()||
+|Day 49|August 09, 2023|Web Scraping - |[Notebook Link]()||
+|Day 50|August 10, 2023|Web Scraping - |[Notebook Link]()||
