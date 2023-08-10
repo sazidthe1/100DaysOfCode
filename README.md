@@ -67,4 +67,4 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 47|August 07, 2023|Web Scraping - IMDb Top 250 Movies (Incomplete)|[Notebook Link]()||
 |Day 48|August 08, 2023|Web Scraping - IMDb Top 250 Movies (Completed)|[Notebook Link]()||
 |Day 49|August 09, 2023|Web Scraping - Scrapy framework|[Notebook Link]()||
-|Day 50|August 10, 2023|Web Scraping - |[Notebook Link]()||
+|Day 50|August 10, 2023|Web Scraping - StarTech Website Project|[Notebook Link]()||
