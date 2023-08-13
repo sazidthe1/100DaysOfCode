@@ -74,9 +74,9 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 #### 📊 Data Analysis | Day 51 to Day 60
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
-|Day 51|August 11, 2023|Data Science  - NumPy Basics|[Notebook Link]()||
-|Day 52|August 12, 2023|NumPy Array - Creating Arrays, Array Indexing, Slicing|[Notebook Link]()||
-|Day 53|August 13, 2023|Data Science  - |[Notebook Link]()||
+|Day 51|August 11, 2023|Data Science  - NumPy Basics|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/5%20Numpy%20and%20Pandas/day51%2B52_numpy.ipynb)||
+|Day 52|August 12, 2023|NumPy Array - Creating, Indexing, Slicing|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/5%20Numpy%20and%20Pandas/day51%2B52_numpy.ipynb)||
+|Day 53|August 13, 2023|NumPy Array - Joining, Splitting, Searching, Sorting, Filtering|[Notebook Link]()||
 |Day 54|August 14, 2023||||
 |Day 55|August 15, 2023||||
 |Day 56|August 16, 2023||||
