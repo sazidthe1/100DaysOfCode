@@ -54,7 +54,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 40|July 30, 2023|Revise - Data Structures and Algorithms|🚫 Code Day|[Bro Code's Course](https://www.youtube.com/watch?v=CBYHwZcbD-s)|
 <br>
 
-### 🏅 Advanced Intermediate| Day 40 to Day 60
+### 🏅 Advanced Intermediate| Day 41 to Day 70
 
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
@@ -70,16 +70,35 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 50|August 10, 2023|Web Scraping - StarTech Website Project|[Notebook Link]()||
 <br>
 
-#### Data Science | Day 50 to Day 70
+### 🔬 Data Science
+#### 📊 Data Analysis | Day 51 to Day 60
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
 |Day 51|August 11, 2023|Data Science  - NumPy Basics|[Notebook Link]()||
 |Day 52|August 12, 2023|NumPy Array - Creating Arrays, Array Indexing, Slicing|[Notebook Link]()||
 |Day 53|August 13, 2023|Data Science  - |[Notebook Link]()||
-|Day 54|August 14, 2023|Data Science  - |[Notebook Link]()||
-|Day 55|August 15, 2023|Data Science  - |[Notebook Link]()||
-|Day 56|August 16, 2023|Data Science  - |[Notebook Link]()||
-|Day 57|August 17, 2023|Data Science  - |[Notebook Link]()||
-|Day 58|August 18, 2023|Data Science  - |[Notebook Link]()||
-|Day 59|August 19, 2023|Data Science  - |[Notebook Link]()||
-|Day 60|August 20, 2023|Data Science  - |[Notebook Link]()||
+|Day 54|August 14, 2023||||
+|Day 55|August 15, 2023||||
+|Day 56|August 16, 2023||||
+|Day 57|August 17, 2023||||
+|Day 58|August 18, 2023||||
+|Day 59|August 19, 2023||||
+|Day 60|August 20, 2023||||
+<br>
+
+#### 🎨 Data Visualization | Day 61 to Day 70
+|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
+|---|-----|-----------|-----------|-----------|
+|Day 61|August 21, 2023||||
+|Day 62|August 22, 2023||||
+|Day 63|August 23, 2023||||
+|Day 64|August 24, 2023||||
+|Day 65|August 25, 2023||||
+|Day 66|August 26, 2023||||
+|Day 67|August 27, 2023||||
+|Day 68|August 28, 2023||||
+|Day 69|August 27, 2023||||
+|Day 70|August 28, 2023||||
+<br>
+
+### 🚀 Advanced | Day 71 to Day 100
