@@ -79,9 +79,8 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 53|August 14, 2023|NumPy Arrays - Shaping, Reshaping, Iterating|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/5%20Numpy%20and%20Pandas/day53_numpy.ipynb)||
 |Day 54|August 13, 2023|NumPy Arrays - Joining, Splitting, Searching, Sorting, Filtering|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/5%20Numpy%20and%20Pandas/day54_numpy.ipynb)||
 |Day 55|August 15, 2023|Python NumPy Tutorial for Beginners|[Notebook Link]()|[freeCodeCamp's Course](https://youtu.be/QUT1VHiLmmI)|
-|Day 56|August 16, 2023|Python DS Libray- Pandas Basics|||
-|Day 57|August 17, 2023|Pandas - Reading Files (CSV, JSON), Analyzing DataFrames
-|||
+|Day 56|August 16, 2023|Python DS Libray - Pandas Basics|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/5%20Numpy%20and%20Pandas/day56%2B57_pandas.ipynb)||
+|Day 57|August 17, 2023|Pandas - Reading Files (CSV, JSON), Analyzing DataFrames|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/5%20Numpy%20and%20Pandas/day56%2B57_pandas.ipynb)||
 |Day 58|August 18, 2023||||
 |Day 59|August 19, 2023||||
 |Day 60|August 20, 2023||||
