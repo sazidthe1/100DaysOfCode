@@ -54,7 +54,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 40|July 30, 2023|Revise - Data Structures and Algorithms|🚫 Code Day|[Bro Code's Course](https://www.youtube.com/watch?v=CBYHwZcbD-s)|
 <br>
 
-### 🏅 Advanced Intermediate| Day 41 to Day 70
+### 🏅 Advanced Intermediate | Day 41 to Day 70
 
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
@@ -70,8 +70,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 50|August 10, 2023|Web Scraping - StarTech Website Project|[Notebook Link]()||
 <br>
 
-### 🔬 Data Science
-#### 📊 Data Analysis | Day 51 to Day 60
+### 🔬 Data Science - 📊 Data Analysis | Day 51 to Day 60
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
 |Day 51|August 11, 2023|Python DS Library  - NumPy Basics|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/5%20Numpy%20and%20Pandas/day51%2B52_numpy.ipynb)||
@@ -86,11 +85,11 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 60|August 20, 2023|Pandas for Beginners - Hands-on Practice|||
 <br>
 
-#### 🎨 Data Visualization | Day 61 to Day 70
+### 🔬 Data Science - 🎨 Data Visualization | Day 61 to Day 70
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
-|Day 61|August 21, 2023||||
-|Day 62|August 22, 2023||||
+|Day 61|August 21, 2023|Python DS Library - Matplotlib Basics|[Notebook Link]()||
+|Day 62|August 22, 2023|Matplotlib - Pyplot, Plotting, Markers|[Notebook Link]()||
 |Day 63|August 23, 2023||||
 |Day 64|August 24, 2023||||
 |Day 65|August 25, 2023||||
