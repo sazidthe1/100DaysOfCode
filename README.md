@@ -88,9 +88,9 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 ### 🔬 Data Science - 🎨 Data Visualization | Day 61 to Day 70
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
-|Day 61|August 21, 2023|Python DS Library - Matplotlib Basics|[Notebook Link]()||
-|Day 62|August 22, 2023|Matplotlib - Pyplot, Plotting, Markers|[Notebook Link]()||
-|Day 63|August 23, 2023||||
+|Day 61|August 21, 2023|Python DS Library - Matplotlib Basics|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day61%2B62_matplotlib.ipynb)||
+|Day 62|August 22, 2023|Matplotlib - Pyplot, Plotting, Markers|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day61%2B62_matplotlib.ipynb)||
+|Day 63|August 23, 2023|Matplotlib - Line, Labels, Grid, Subplot|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day63%2B64_matplotlib.ipynb)||
 |Day 64|August 24, 2023||||
 |Day 65|August 25, 2023||||
 |Day 66|August 26, 2023||||
