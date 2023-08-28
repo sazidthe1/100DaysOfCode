@@ -95,7 +95,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 65|August 25, 2023|Matplotlib Crash Course - Hands-on Practice|[Notebook Link]()||
 |Day 66|August 26, 2023|Matplotlib Crash Course - Hands-on Practice Continued|[Notebook Link]()||
 |Day 67|August 27, 2023|Python DS Library - Seaborn Basics|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67%2B68_seaborn.ipynb)||
-|Day 68|August 28, 2023|Seaborn - |[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67%2B68_seaborn.ipynb)||
+|Day 68|August 28, 2023|Seaborn - Scatter Plots, Line Plots, Bar Plots, Histograms|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67%2B68_seaborn.ipynb)||
 |Day 69|August 27, 2023||||
 |Day 70|August 28, 2023||||
 <br>
