@@ -94,10 +94,9 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 64|August 24, 2023|Matplotlib - Scatter, Bars, Histograms, Pie Charts|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day64_matplotlib.ipynb)||
 |Day 65|August 25, 2023|Matplotlib Crash Course - Hands-on Practice|[Notebook Link]()||
 |Day 66|August 26, 2023|Matplotlib Crash Course - Hands-on Practice Continued|[Notebook Link]()||
-|Day 67|August 27, 2023|Python DS Library - Seaborn Basics|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67%2B68_seaborn.ipynb)||
-|Day 68|August 28, 2023|Seaborn - Scatter Plots, Line Plots, Bar Plots, Histograms|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67%2B68_seaborn.ipynb)||
-|Day 69|August 27, 2023||||
-|Day 70|August 28, 2023||||
+|Day 67|August 27, 2023|Python DS Library - Seaborn Basics|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67_69_seaborn.ipynb)||
+|Day 68|August 28, 2023|Seaborn - Seaborn Plot Types (Scatter Plots, Line Plots, Bar Plots, Histograms)|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67_69_seaborn.ipynb)||
+|Day 69|August 29, 2023|Seaborn - Seaborn Plot Types (Box Plots, Violin Plots, Heatmaps, Pair Plots), Customizing Seaborn Plots|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67_69_seaborn.ipynb)||
+|Day 70|August 30, 2023||||
 <br>
-
 ### 🚀 Advanced | Day 71 to Day 100
