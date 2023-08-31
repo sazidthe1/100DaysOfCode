@@ -99,4 +99,18 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 69|August 29, 2023|Seaborn - Seaborn Plot Types (Box Plots, Violin Plots, Heatmaps, Pair Plots), Customizing Seaborn Plots|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/6%20Data%20Visualization/day67_69_seaborn.ipynb)||
 |Day 70|August 30, 2023||||
 <br>
-### 🚀 Advanced | Day 71 to Day 100
+
+### 🚀 Advanced | Day 71 to Day 100 | Data Science Projects
+
+|**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
+|---|-----|-----------|-----------|-----------|
+|Day 71|September 01, 2023|||
+|Day 72|September 02, 2023|||
+|Day 73|September 03, 2023|||
+|Day 74|September 04, 2023|||
+|Day 75|September 05, 2023|||
+|Day 76|September 06, 2023|||
+|Day 77|September 07, 2023|||
+|Day 78|September 08, 2023|||
+|Day 79|September 09, 2023|||
+|Day 80|September 10, 2023|||
