@@ -104,7 +104,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
-|Day 71|September 01, 2023|||
+|Day 71|September 01, 2023|Projects - Investigating Netflix Movies|[Notebook Link]()||
 |Day 72|September 02, 2023|||
 |Day 73|September 03, 2023|||
 |Day 74|September 04, 2023|||
