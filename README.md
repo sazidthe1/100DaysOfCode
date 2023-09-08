@@ -109,9 +109,9 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 73|September 03, 2023|Project - Investigating Netflix Movies Completed|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/7%20Data%20Science%20Projects/day71_73_project_netflix.ipynb)|
 |Day 74|September 04, 2023|Project - Gross Domestic Product Data|[Notebook Link]()||
 |Day 75|September 05, 2023|Project - Gross Domestic Product Data Continued|[Notebook Link]()|||
-|Day 76|September 06, 2023||||
-|Day 77|September 07, 2023||||
-|Day 78|September 08, 2023||||
+|Day 76|September 06, 2023|Project - Gross Domestic Product Data Continued|||
+|Day 77|September 07, 2023|Take a Break|🚫 Code Day||
+|Day 78|September 08, 2023|Project - Gross Domestic Product Data Completed|||
 |Day 79|September 09, 2023||||
 |Day 80|September 10, 2023||||
 
