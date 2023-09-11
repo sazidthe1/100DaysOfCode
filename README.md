@@ -104,14 +104,14 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 
 |**Day 📌**|**Date 📆**|**Lessons/Tasks Done ✅**|**Reference Links 🔗**|**Material/Course to Follow 📚**|
 |---|-----|-----------|-----------|-----------|
-|Day 71|September 01, 2023|Project - Investigating Netflix Movies|||
-|Day 72|September 02, 2023|Project - Investigating Netflix Movies Continued|||
+|Day 71|September 01, 2023|Project - Investigating Netflix Movies|Below 👇||
+|Day 72|September 02, 2023|Project - Investigating Netflix Movies Continued|Below 👇||
 |Day 73|September 03, 2023|Project - Investigating Netflix Movies Completed|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/7%20Data%20Science%20Projects/day71_73_project_netflix.ipynb)|
-|Day 74|September 04, 2023|Project - Gross Domestic Product Data||
-|Day 75|September 05, 2023|Project - Gross Domestic Product Data Continued||||
-|Day 76|September 06, 2023|Project - Gross Domestic Product Data Continued|[Notebook Link](https://app.datacamp.com/workspace/w/263af758-e7d9-433a-ac1c-0f63cd905954)||
+|Day 74|September 04, 2023|Project - Gross Domestic Product Data|Below 👇||
+|Day 75|September 05, 2023|Project - Gross Domestic Product Data Continued|Below 👇||
+|Day 76|September 06, 2023|Project - Gross Domestic Product Data Continued|Below 👇||
 |Day 77|September 07, 2023|Take a Break|🚫 Code Day||
-|Day 78|September 08, 2023|Project - Gross Domestic Product Data Completed|||
+|Day 78|September 08, 2023|Project - Gross Domestic Product Data Completed|[Notebook Link](https://app.datacamp.com/workspace/w/263af758-e7d9-433a-ac1c-0f63cd905954)||
 |Day 79|September 09, 2023|Kaggle Dataset Contribution: Global Happiness Report|[Dataset Link](https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors)||
 |Day 80|September 10, 2023||||
 |Day 81|September 11, 2023||||
