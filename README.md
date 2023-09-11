@@ -114,4 +114,13 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 78|September 08, 2023|Project - Gross Domestic Product Data Completed|||
 |Day 79|September 09, 2023|Kaggle Dataset Contribution: Global Happiness Report|[Dataset Link](https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors)||
 |Day 80|September 10, 2023||||
-
+|Day 81|September 11, 2023||||
+|Day 82|September 12, 2023||||
+|Day 83|September 13, 2023||||
+|Day 84|September 14, 2023||||
+|Day 85|September 15, 2023||||
+|Day 86|September 16, 2023||||
+|Day 87|September 17, 2023||||
+|Day 88|September 18, 2023||||
+|Day 89|September 19, 2023||||
+|Day 90|September 20, 2023||||
