@@ -113,8 +113,8 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 77|September 07, 2023|Take a Break|🚫 Code Day||
 |Day 78|September 08, 2023|Project - Gross Domestic Product Data Completed|[Notebook Link](https://app.datacamp.com/workspace/w/263af758-e7d9-433a-ac1c-0f63cd905954)||
 |Day 79|September 09, 2023|Kaggle Dataset Contribution: Global Happiness Report|[Dataset Link](https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors)||
-|Day 80|September 10, 2023||||
-|Day 81|September 11, 2023||||
+|Day 80|September 10, 2023|Project - EDA on Hotel Booking Data Continued|Below 👇||
+|Day 81|September 11, 2023|Project - EDA on Hotel Booking Data Completed|[Notebook Link](https://app.datacamp.com/workspace/w/a2b1abc7-5e79-4420-8be9-0c32d0cc8e73)||
 |Day 82|September 12, 2023||||
 |Day 83|September 13, 2023||||
 |Day 84|September 14, 2023||||
