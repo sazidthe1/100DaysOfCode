@@ -117,9 +117,9 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 81|September 11, 2023|Project - EDA on Hotel Booking Data Completed|[Notebook Link](https://app.datacamp.com/workspace/w/a2b1abc7-5e79-4420-8be9-0c32d0cc8e73)||
 |Day 82|September 12, 2023|Pre-processing of the World GDP Data|Below 👇||
 |Day 83|September 13, 2023|Kaggle Dataset Contribution: World GDP Data|[Dataset Link](https://www.kaggle.com/datasets/sazidthe1/world-gdp-data)||
-|Day 84|September 14, 2023|Looking for the Next Data Project|||
+|Day 84|September 14, 2023|Looking for the Next Data Project|🚫 Code Day||
 |Day 85|September 15, 2023|Project - Exploring the Bitcoin Cryptocurrency Market|Below 👇||
-|Day 86|September 16, 2023||||
+|Day 86|September 16, 2023|Project - Exploring the Bitcoin Cryptocurrency Market|[Notebook Link]()||
 |Day 87|September 17, 2023||||
 |Day 88|September 18, 2023||||
 |Day 89|September 19, 2023||||
