@@ -119,8 +119,8 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 83|September 13, 2023|Kaggle Dataset Contribution: World GDP Data|[Dataset Link](https://www.kaggle.com/datasets/sazidthe1/world-gdp-data)||
 |Day 84|September 14, 2023|Looking for the Next Data Project|🚫 Code Day||
 |Day 85|September 15, 2023|Project - Exploring the Bitcoin Cryptocurrency Market|Below 👇||
-|Day 86|September 16, 2023|Project - Exploring the Bitcoin Cryptocurrency Market|[Notebook Link]()||
-|Day 87|September 17, 2023||||
+|Day 86|September 16, 2023|Project - Exploring the Bitcoin Cryptocurrency Market|Below 👇||
+|Day 87|September 17, 2023|Project - Exploring the Bitcoin Cryptocurrency Market|[Notebook Link](https://github.com/sazidthe1/100DaysOfCode/blob/main/7%20Data%20Science%20Projects/project_cryptocurrency_market.ipynb)||
 |Day 88|September 18, 2023||||
 |Day 89|September 19, 2023||||
 |Day 90|September 20, 2023||||
