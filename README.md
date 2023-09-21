@@ -124,3 +124,13 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 88|September 18, 2023|Kaggle Dataset Contribution: Sustainable Development Report|[Dataset Link](https://www.kaggle.com/datasets/sazidthe1/sdg-report)||
 |Day 89|September 19, 2023|Looking for the Next Data Project|🚫 Code Day|||
 |Day 90|September 20, 2023|Data Portfolio to Update|[Portfolio Link](https://www.datacamp.com/portfolio/sazidthe1)||
+|Day 91|September 21, 2023||||
+|Day 92|September 22, 2023||||
+|Day 93|September 23, 2023||||
+|Day 94|September 24, 2023||||
+|Day 95|September 25, 2023||||
+|Day 96|September 26, 2023||||
+|Day 97|September 27, 2023||||
+|Day 98|September 28, 2023||||
+|Day 99|September 29, 2023||||
+|Day 100|September 30, 2023||||
