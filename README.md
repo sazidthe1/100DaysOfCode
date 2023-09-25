@@ -128,7 +128,7 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 92|September 22, 2023|Start Working on 1st Blog Post|||
 |Day 93|September 23, 2023|Set Up the Blog Site|[Blog Link](https://hashnode.com/@sazidthe1)||
 |Day 94|September 24, 2023|Publish the Blog Post (1st)|[Post Link](https://sazidthe1.hashnode.dev/python-for-data-science-a-roadmap-to-follow)||
-|Day 95|September 25, 2023||||
+|Day 95|September 25, 2023|Start Working on 2nd Blog Post|||
 |Day 96|September 26, 2023||||
 |Day 97|September 27, 2023||||
 |Day 98|September 28, 2023||||
