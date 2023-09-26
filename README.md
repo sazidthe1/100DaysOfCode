@@ -125,10 +125,10 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 89|September 19, 2023|Looking for the Next Data Project|🚫 Code Day|||
 |Day 90|September 20, 2023|Data Portfolio to Update|[Portfolio Link](https://www.datacamp.com/portfolio/sazidthe1)||
 |Day 91|September 21, 2023|Attend an event: Data Talks by Optimizely Dhaka|[Event Link](https://www.facebook.com/events/1978665059159093)||
-|Day 92|September 22, 2023|Start Working on 1st Blog Post|||
+|Day 92|September 22, 2023|Start Working on 1st Blog Post|Below 👇||
 |Day 93|September 23, 2023|Set Up the Blog Site|[Blog Link](https://hashnode.com/@sazidthe1)||
 |Day 94|September 24, 2023|Publish the Blog Post (1st)|[Post Link](https://sazidthe1.hashnode.dev/data-science-roadmap-with-python)||
-|Day 95|September 25, 2023|Start Working on 2nd Blog Post|||
+|Day 95|September 25, 2023|Start Working on 2nd Blog Post|Below 👇||
 |Day 96|September 26, 2023|Publish the Blog Post (2nd)|[Post Link](https://sazidthe1.hashnode.dev/most-essential-git-commands)||
 |Day 97|September 27, 2023||||
 |Day 98|September 28, 2023||||
