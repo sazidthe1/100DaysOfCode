@@ -131,6 +131,6 @@ The repository dedicated to my #100DaysOfCode journey in Python 🐍
 |Day 95|September 25, 2023|Start Working on 2nd Blog Post|Below 👇||
 |Day 96|September 26, 2023|Publish the Blog Post (2nd)|[Post Link](https://sazidthe1.hashnode.dev/most-essential-git-commands)||
 |Day 97|September 27, 2023|Work on Unfinished Notebook|||
-|Day 98|September 28, 2023||||
+|Day 98|September 28, 2023|Start Working on Portfolio|||
 |Day 99|September 29, 2023||||
 |Day 100|September 30, 2023||||
